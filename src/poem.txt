@@ -24,7 +24,7 @@ Version control, its dance, in rhythms that grow.
 Branches twirl gracefully, like dancers in flight,
 Commits pirouette, each adding their light.
 Merge conflicts tango, resolving their spree,
-In the grand ballet of collaborative spree.
+In the grand ballet of collaborative glee.
 
 History unfolds in a graceful arc,
 As repositories hum, a versioned park.
