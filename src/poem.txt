@@ -24,15 +24,15 @@ Version control, its dance, in rhythms that grow.
 Branches twirl gracefully, like dancers in flight,
 Commits pirouette, each adding their light.
 Merge conflicts tango, resolving their spree,
-In the grand ballet of collaborative spree.
+In the grand ballet of collaborative glee.
 
 History unfolds in a graceful arc,
 As repositories hum, a versioned park.
 From clone to push, each step plays its part,
 A symphony of changes, a coder's art.
 
-Forks and pulls waltz in collaborative glee,
-Contributions entwine, a collaborative spree.
+Forks and pulls waltz 'mid this turbulent sea,
+Contributions entwine in a clean working tree.
 Tags softly hum, marking moments in time,
 In this choreography of coding sublime.
 
