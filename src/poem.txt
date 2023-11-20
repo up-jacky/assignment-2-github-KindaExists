@@ -24,15 +24,15 @@ version control, its dance, in rhythms that grow.
 Branches twirl gracefully, like dancers in flight,
 commits pirouette, each adding their light.
 Merge conflicts tango, resolving their spree,
-in the grand ballet of collaborative victory.
+In the grand ballet of collaborative glee.
 
 History unfolds in a graceful arc,
 as repositories hum, a versioned park.
 From clone to push, each step plays its part,
 a symphony of changes, a coder's art.
 
-Forks and pulls waltz in collaborative glee,
-contributions entwine, a collaborative victory.
+Forks and pulls waltz 'mid this turbulent sea,
+Contributions entwine in a clean working tree.
 Tags softly hum, marking moments in time,
 in this choreography of coding sublime.
 
@@ -135,3 +135,8 @@ Up the hill-side; and now 'tis buried deep
 In the next valley-glades:
 Was it a vision, or a waking dream?
 Fled is that music:—Do I wake or sleep?
+
+  ^~^  ,
+ ('Y') )
+ /   \/ 
+(\|||/)
