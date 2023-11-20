@@ -31,8 +31,8 @@ As repositories hum, a versioned park.
 From clone to push, each step plays its part,
 A symphony of changes, a coder's art.
 
-Forks and pulls waltz in collaborative glee,
-Contributions entwine, a collaborative spree.
+Forks and pulls waltz 'mid this turbulent sea,
+Contributions entwine in a clean working tree.
 Tags softly hum, marking moments in time,
 In this choreography of coding sublime.
 
